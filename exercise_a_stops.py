@@ -17,7 +17,7 @@ print(stops)
 
 #4. Print out the index position of "Linlithgow"
 
-print(stops[5])
+print(stops.index("Linlithgow"))
 
 #5. Remove "Livingston" from the list using its name
 
